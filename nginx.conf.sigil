@@ -1,3 +1,4 @@
+# Dont modify this file, its in the repository called nginx.conf.sigil
 server {
   listen      [::]:80;
   listen      80;
